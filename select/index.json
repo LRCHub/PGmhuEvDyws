@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "Twilight Sky",
+  "base_artist": "多田李衣菜 (CV: 青木瑠璃子)",
+  "createdAt": "2026-03-09T13:00:52.163709Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Twilight Sky [ORT]",
+      "artist": "多田李衣菜(CV:青木瑠璃子)",
+      "has_synced": false,
+      "path": "select/01_Twilight_Sky_[ORT]_多田李衣菜(CV_青木瑠璃子).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Twilight Sky [ORT]",
+      "artist": "多田李衣菜 (CV: 青木瑠璃子 from CINDERELLA PARTY!) & 前川みく (CV: 高森奈津美 from CINDERELLA PARTY!)",
+      "has_synced": false,
+      "path": "select/02_Twilight_Sky_[ORT]_多田李衣菜_(CV__青木瑠璃子_from_CINDERELLA_PARTY!)_&_前川みく_(CV__高森奈津美_from_CINDERELLA_PARTY.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Twilight Sky",
+      "artist": "多田李衣菜 (CV: 青木瑠璃子)",
+      "has_synced": false,
+      "path": "select/03_Twilight_Sky_多田李衣菜_(CV__青木瑠璃子).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Twilight Sky",
+      "artist": "多田李衣菜 (CV青木瑠璃子)",
+      "has_synced": false,
+      "path": "select/04_Twilight_Sky_多田李衣菜_(CV青木瑠璃子).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Twilight Sky",
+      "artist": "多田李衣菜（CV：青木瑠璃子）",
+      "has_synced": false,
+      "path": "select/05_Twilight_Sky_多田李衣菜(CV_青木瑠璃子).txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Twilight Sky (オリジナル・カラオケ)",
+      "artist": "多田李衣菜 (CV青木瑠璃子)",
+      "has_synced": false,
+      "path": "select/06_Twilight_Sky_(オリジナル・カラオケ)_多田李衣菜_(CV青木瑠璃子).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Twilight Sky (オリジナル・カラオケ)",
+      "artist": "多田李衣菜",
+      "has_synced": false,
+      "path": "select/07_Twilight_Sky_(オリジナル・カラオケ)_多田李衣菜.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Twilight Sky",
+      "artist": "多田李衣菜",
+      "has_synced": false,
+      "path": "select/08_Twilight_Sky_多田李衣菜.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Living In Twilight",
+      "artist": "The Weepies",
+      "has_synced": true,
+      "path": "select/09_Living_In_Twilight_The_Weepies.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Twilight",
+      "artist": "Lusine",
+      "has_synced": false,
+      "path": "select/10_Twilight_Lusine.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Twilight Galaxy",
+      "artist": "Metric",
+      "has_synced": false,
+      "path": "select/11_Twilight_Galaxy_Metric.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "In This Twilight",
+      "artist": "Nine Inch Nails",
+      "has_synced": true,
+      "path": "select/12_In_This_Twilight_Nine_Inch_Nails.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "In This Twilight - fennesz",
+      "artist": "Nine Inch Nails",
+      "has_synced": true,
+      "path": "select/13_In_This_Twilight_-_fennesz_Nine_Inch_Nails.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "In this Twilight (Fennesz)",
+      "artist": "Nine Inch Nails",
+      "has_synced": true,
+      "path": "select/14_In_this_Twilight_(Fennesz)_Nine_Inch_Nails.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Twilight",
+      "artist": "Vangelis",
+      "has_synced": false,
+      "path": "select/15_Twilight_Vangelis.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Twilight",
+      "artist": "The Verve",
+      "has_synced": false,
+      "path": "select/16_Twilight_The_Verve.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Twilight Of The Innocents",
+      "artist": "ASH",
+      "has_synced": true,
+      "path": "select/17_Twilight_Of_The_Innocents_ASH.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Lost in the Twilight Hall (Demo, Remastered 2007)",
+      "artist": "Blind Guardian",
+      "has_synced": false,
+      "path": "select/18_Lost_in_the_Twilight_Hall_(Demo,_Remastered_2007)_Blind_Guardian.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Lost in the Twilight Hall (Remastered 2007)",
+      "artist": "Blind Guardian",
+      "has_synced": false,
+      "path": "select/19_Lost_in_the_Twilight_Hall_(Remastered_2007)_Blind_Guardian.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Twilight Princess",
+      "artist": "Hammerfall",
+      "has_synced": true,
+      "path": "select/20_Twilight_Princess_Hammerfall.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Twilight Zone",
+      "artist": "Iron Maiden",
+      "has_synced": true,
+      "path": "select/21_Twilight_Zone_Iron_Maiden.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Twilight of the Gods",
+      "artist": "Blind Guardian",
+      "has_synced": true,
+      "path": "select/22_Twilight_of_the_Gods_Blind_Guardian.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Twilight Of The Gods",
+      "artist": "Helloween",
+      "has_synced": true,
+      "path": "select/23_Twilight_Of_The_Gods_Helloween.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Twilight Sky",
+      "artist": "多田李衣菜 (青木瑠璃子)",
+      "has_synced": false,
+      "path": "select/pl_01_Twilight_Sky_多田李衣菜_(青木瑠璃子).txt"
+    }
+  ]
+}
